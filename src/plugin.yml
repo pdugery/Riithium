@@ -1,0 +1,9 @@
+name: Riithium
+version: 1.0
+author: pdugery
+main: pdugery.riithium.Riithium
+api-version: 1.13
+commands:
+  riithium:
+    description: Manage the Riithium ore
+    usage: /<command>
